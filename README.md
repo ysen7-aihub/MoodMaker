@@ -9,7 +9,7 @@ __일기를 작성하고 사진을 넣으면, 감정을 분석하고 알맞는 �
 
 ## Contributors
 
-@Hyosin Jang      | @zogak
+장효신([**@hyosin-Jang**](https://github.com/hyosin-Jang))      | 장윤아 ([**@zogak**](https://github.com/zogak))
 ----------------- | -------------
 Frontend      | NLP server
 Flask web server   | CNN server

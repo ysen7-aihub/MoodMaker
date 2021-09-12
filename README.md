@@ -7,3 +7,10 @@ __일기를 작성하고 사진을 넣으면, 감정을 분석하고 알맞는 �
 
 ![image](https://user-images.githubusercontent.com/76643037/132992696-976bcaa0-8920-48e9-8d7f-bd445cd87111.png)
 
+## Contributors
+
+@Hyosin Jang      | @zogak
+----------------- | -------------
+Frontend      | NLP server
+Flask web server   | CNN server
+CNN image sentiment model  |  Music recommend model 

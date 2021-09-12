@@ -40,5 +40,5 @@ __일기를 작성하고 사진을 넣으면, 감정을 분석하고 알맞은 �
 장효신([**@hyosin-Jang**](https://github.com/hyosin-Jang))      | 장윤아 ([**@zogak**](https://github.com/zogak))
 ----------------- | -------------
 프론트엔드      | NLP 서버
-Flask 웹서버   | CNN 서버
+웹 서버, 데이터베이스   | CNN 서버
 CNN 이미지 감정 분석 모델  |  Spotify 음악 추천 모델 

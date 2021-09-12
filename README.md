@@ -7,9 +7,11 @@
 ![numpy](https://img.shields.io/badge/Numpy-1.19.5-blue?logo=numpy)
 ![google colab](https://img.shields.io/badge/Colab-yellow?logo=googlecolab)
 
-__일기를 작성하고 사진을 넣으면, 감정을 분석하고 알맞은 음악을 추천해주는 인공지능 웹 서비스__  (2021.07 - 2021.09)</br>
+__일기를 작성하고 사진을 넣으면, 감정을 분석하고 알맞은 음악을 추천해주는 인공지능 웹 서비스__  (2021.07 - 2021.09)  
+<br/>
 
-[link for more details](https://www.codepresso.kr/ai/1)
+## Link for more details
+[Click here!](https://www.codepresso.kr/ai/1)
 
 
 <br/>

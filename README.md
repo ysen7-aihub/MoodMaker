@@ -11,6 +11,7 @@ __일기를 작성하고 사진을 넣으면, 감정을 분석하고 알맞는 �
 
 [link for more details](https://www.codepresso.kr/ai/1)
 
+
 <br/>
 
 ## Project architecture

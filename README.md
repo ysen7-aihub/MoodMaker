@@ -1,9 +1,9 @@
 # MoodMaker
 
- ![react](https://img.shields.io/badge/React-v17.0.2-61DAFB?logo=react)
 ![tensorflow](https://img.shields.io/badge/Tensorflow-2.0-orange?logo=tensorflow)
 ![pytorch](https://img.shields.io/badge/Pytorch-1.9.0-red?logo=pytorch)
 ![flask](https://img.shields.io/badge/Flask-2.0.1-black?logo=flask)
+![react](https://img.shields.io/badge/React-v17.0.2-61DAFB?logo=react)
 ![numpy](https://img.shields.io/badge/Numpy-1.19.5-blue?logo=numpy)
 ![google colab](https://img.shields.io/badge/Colab-yellow?logo=googlecolab)
 

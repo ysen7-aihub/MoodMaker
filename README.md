@@ -23,8 +23,8 @@ __일기를 작성하고 사진을 넣으면, 감정을 분석하고 알맞은 �
 
 
 ## Source code
-1. [Frontend & flask web server](https://github.com/ysen7-aihub/flask-server)
-2. [Music recommend model](https://github.com/ysen7-aihub/music)
+1. [Frontend & Flask web server](https://github.com/ysen7-aihub/flask-server)
+2. [Music recommendation model](https://github.com/ysen7-aihub/music)
 3. [NLP model](https://github.com/ysen7-aihub/NLP)
 4. [NLP server](https://github.com/ysen7-aihub/nlp-server)  
 5. [CNN model](https://github.com/ysen7-aihub/sentiment)  

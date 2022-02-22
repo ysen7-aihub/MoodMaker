@@ -12,10 +12,10 @@ __일기를 작성하고 사진을 넣으면, 감정을 분석하고 알맞은 �
 <br/>
 
 ## Link for more details
-[Click here!](https://www.codepresso.kr/ai/1)
+[click](https://www.codepresso.kr/ai/1)
 
-
-<br/>
+## Demo video
+[click](https://www.youtube.com/watch?v=Q9K14xelZqI)
 
 ## Project architecture
 
